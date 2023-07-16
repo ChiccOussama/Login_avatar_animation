@@ -117,20 +117,27 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="debut" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\debut.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuThinButton21.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAJgAAAAwCAYAAADtjbOiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIxSURBVHhe7dy7a1RBGEBx/wg7SztLOyFFsEqllTaBgEWw
+        SmVlZSEI6VLaWFnY2SVVbEKKgGBjquAzmkSFFUk0DxIzciY7lyy7e0nc+aqcH1xYNo/qMDP3cmcuJSmQ
+        gSmUgSmUgSmUgSmUgSlUa2DH+wdp5+Vi+jb9KG3cnkmfr99J7y6PeV3wiw7oYWvqYdp+sZD+/trpFtNv
+        aGB/Xq3kf0RcRLa7/CYdrm91f6qLjA7o4ff8Uvox8yR3QmiD9AVGjfzR5t0H6eh7p/utNFxbMz2B8Ytf
+        xu8NrVFqw6z3deJ+z0zXExgVGpdGwdTJ+qxoAqM+hjhpVJ3HT9PPuef5cw6Mu0UWaq65VAM9sdQ6WPt0
+        EhjTItOjVAsjGCNZDoznGdxySrXsv13Lo1gObP3GZB7OpFqYJt9fuXkS2IerE61PY6X/wVP/HBgfpNoM
+        TKEMTKEMTKEMTKEMTKEMTKEMTKEMTKEMTKEMTKEMTKEMTKEMTKEMTKGawHgxjBfEpJqawNjw4a5t1dYE
+        xnY1tq1JtfAKPq/i58DKDhCplrJTLQfG9EhtrsNUS9mplgNDZ/ZZvqRRlSO/0ATG6MWZAnuvV7vfSOfH
+        6QDMhmWXWhMYWJiVLd/SeREXgxQHoBQ9gYERjMjK4RXSWbDeYuQ6HRf6AgPTJXeV1MjdgIeiaBCmwbLe
+        YlE/aPP2wMAKauRW8+O1W/mhmZfX6YsTAcoRq8O0BiaNysAUysAUysAUysAUKKV/0fUb442CG2sAAAAA
+        SUVORK5CYII=
+</value>
   </data>
-  <data name="Businessman_52px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Businessman_52px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="if_quit_37278" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\if_quit_37278.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Forgot Password_48px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Forgot Password_48px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="textbox_user_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\textbox_user_24.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+  <metadata name="bunifuDragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>141, 17</value>
+  </metadata>
 </root>
