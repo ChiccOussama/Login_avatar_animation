@@ -17,6 +17,5 @@
 
  Whether you're developing a new app or enhancing an existing one, Login Avatar Animation provides a unique and engaging login experience. Impress your users with a visually stunning interface and a touch of entertainment. Download the app now and discover a new way to delight your users during the login process.
  
-https://www.youtube.com/watch?v=1nxROJjhoB8&t
 
-![Capture d’écran 2023-07-16 231142](https://github.com/ChiccOussama/Login_avatar_animation/assets/36731728/b696de15-ceae-4af4-aa12-b618290b4977)
+![Capture d’écran 2023-07-16 234158](https://github.com/ChiccOussama/Login_avatar_animation/assets/36731728/e766d67a-3ebe-4839-8bbd-636fe3d046ad)
